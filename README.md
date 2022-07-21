@@ -1,14 +1,17 @@
-<h1 style="color: white; font-size:32px">
+<!-- <h1 style="color: white; font-size:32px">
   Hello there&nbsp;
-  <img src="./images/hi-white-flipped.gif"
+  <img src=" ./images/hi-flipped-w-border.gif"
     alt="Waving hand animated gif"
-    height="28px"/>
-</h1>
+    height="30px" />
+</h1> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&background=0D1116&vCenter=true&width=315&height=30&lines=Welcome+to+my+profile!;My+name+is+Abby;I'm+a+Full+Stack+Developer;(in+training...shhhhh))](https://git.io/typing-svg)
+<img src="./images/hero-final.gif"/>
 
+<br/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&background=0D1116&vCenter=true&width=350&height=30&lines=My+name+is+Abby;I'm+a+Full+Stack+Developer;(in+training...shhhhh))](https://git.io/typing-svg)
 
+<br/>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=abbygraves&show_icons=true&hide_title=true&bg_color=000&text_color=fff&title_color=fff&icon_color=DEDEDE&border_color=fff&hide=contribs) &nbsp;&nbsp; ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=abbygraves&show_icons=true&bg_color=000&text_color=fff&title_color=fff&icon_color=fff&border_color=fff&layout=compact&card_width=250)
 

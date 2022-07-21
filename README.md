@@ -1,10 +1,12 @@
 <div align="left">
   <img src="pixel-hello.gif">
- </div>
+</div>
 
 <br/>
 
-
+<div align="right">
+  <img src="jjjjjohnn-plant.gif">
+</div>
 
 <!--
 **abbygraves/abbygraves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,14 +1,9 @@
-<div align="left">
-  <img src="hello.gif">
-</div>
-
-<br/>
 
 
 
-<img src="pointer-pixelated.gif">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=abbygraves&show_icons=true&bg_color=ADEFE9&text_color=000&title_color=6102EE&icon_color=BB86FC&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=abbygraves&show_icons=true&hide_title=true&bg_color=000&text_color=fff&title_color=fff&icon_color=DEDEDE&border_color=fff&hide=contribs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=abbygraves&show_icons=true&bg_color=000&text_color=fff&title_color=fff&icon_color=fff&border_color=fff&layout=compact&card_width=445)
+
 
 
 <!--

@@ -1,12 +1,15 @@
 <div align="left">
-  <img src="pixel-hello.gif">
+  <img src="hello.gif">
 </div>
 
 <br/>
 
-<div align="right">
-  <img src="jjjjjohnn-plant.gif">
-</div>
+
+
+<img src="pointer-pixelated.gif">
+
+![github stats](https://github-readme-stats.vercel.app/api?username=abbygraves&show_icons=true&bg_color=ADEFE9&text_color=000&title_color=6102EE&icon_color=BB86FC&hide_border=true)
+
 
 <!--
 **abbygraves/abbygraves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

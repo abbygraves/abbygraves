@@ -1,13 +1,11 @@
 <h1 style="color: white; font-size:32px">
-  Hello there
+  Hello there&nbsp;
   <img src="./images/hi-white-flipped.gif"
     alt="Waving hand animated gif"
     height="28px"/>
 </h1>
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&vCenter=true&lines=Welcome+to+my+profile!;My+name+is+Abby;I'm+a+Full+Stack+Developer;(in+training...shhhhh))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&background=0D1116&vCenter=true&width=315&height=30&lines=Welcome+to+my+profile!;My+name+is+Abby;I'm+a+Full+Stack+Developer;(in+training...shhhhh))](https://git.io/typing-svg)
 
 
 

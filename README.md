@@ -24,7 +24,7 @@
   style="border: 3px solid #000; border-radius: 8px;"/>
 
 <div align="left">
-  <img src="./images/things-im-good-at.svg" width="450px"/>
+  <img src="./images/things-im-good-at.svg" width="430px"/>
 
   <!-- ICONS -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

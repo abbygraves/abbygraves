@@ -6,6 +6,8 @@
 />
 
 <br/>
+<br/>
+
 
 <!-- BIO -->
 <p align="center" style="color: white; font-size: 13px; font-family: menlo; line-height: 1.5">
@@ -15,23 +17,18 @@
   eager to explore whatever comes my way. The learning never ends, nor do I want it to!
 </p>
 
-<br/>
-<br/>
+<div align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=100&lines=Hello+World!;I+had+to+say+it...;You+know+I+had+to+do+it)">
+</div>
 
-
-<!-- GITHUB STATS╱TOP LANGS  -->
 <img align="right"
   src="https://github-readme-stats.vercel.app/api?username=abbygraves&theme=graywhite&show_icons=true&custom_title=My%20GitHub%20Stats&hide_title=false&hide=contribs&title_color=000&icon_color=000&border_color=000"
   alt="My GitHub Statistics"
-  width="400px" 
-  style="border: 3px solid #000; border-radius: 8px; margin-top: 40px"
-/>
-
-<!-- "THINGS I'M GOOD AT" SVG -->
+  width="390px" 
+  style="border: 3px solid #000; border-radius: 8px;"/>
 <img 
   src="./images/things-im-good-at.svg"
-  width="420px"
-/>
+  width="420px"/>
 
 <!-- ICONS -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,11 +43,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./images/css3.svg" width="64px"/></a>
 
 <br/>
-
-
-
-<!-- <img align="left" src="./images/pointer-pixel.svg" width="120px" style="margin-right: 30px; margin-top: 20px"/> -->
-
 <br/>
 
 <!-- CONNECT WITH ME -->
@@ -119,6 +111,8 @@
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=abbygraves&show_icons=true&hide_title=true&bg_color=000&text_color=fff&title_color=fff&icon_color=DEDEDE&border_color=fff&hide=contribs) &nbsp;&nbsp; ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=abbygraves&show_icons=true&bg_color=000&text_color=fff&title_color=fff&icon_color=fff&border_color=fff&layout=compact&card_width=250) -->
 
 
+<!-- POINTER CURSOR -->
+<!-- <img align="left" src="./images/pointer-pixel.svg" width="120px" style="margin-right: 30px; margin-top: 20px"/> -->
 
 <!-- INFO ON STUFF TO INCLUDE IN README -->
 <!--

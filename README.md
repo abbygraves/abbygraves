@@ -2,30 +2,35 @@
 <img align="left" 
   src="./images/hero-final.gif"
   width="460px"
-  style="margin-bottom: 10px"
+  style="margin-bottom:0px"
 />
 
+<br/>
 
 <!-- BIO -->
-<p align="center" style="color: white; font-size: 13px; font-family: menlo; line-height: 1.5">
+<p align="center" style="color: white; font-size: 15px; font-family: menlo; line-height: 1.5">
   My name is Abby. I am a Full Stack Developer (in training...shhhhh). 
   I'm passionate about learning and finding new ways to challenge 
   myself in my work. I have a strong interest in UI/UX Design and I'm 
   eager to explore whatever comes my way. The learning never ends, nor do I want it to!
 </p>
 
+<br/>
+<br/>
+
 <div align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=100&lines=Hello+World!;I+had+to+say+it...;You+know+I+had+to+do+it">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&height=20&lines=Hello+World!;I+had+to+say+it...;You+know+I+had+to+do+it"/>
 </div>
+
+<img src="./images/things-im-good-at.svg" width="440px"/>
+
 <img align="right"
   src="https://github-readme-stats.vercel.app/api?username=abbygraves&theme=graywhite&show_icons=true&custom_title=My%20GitHub%20Stats&hide_title=false&hide=contribs&title_color=000&icon_color=000&border_color=000"
   alt="My GitHub Statistics"
-  width="390px" 
+  width="400px" 
   style="border: 3px solid #000; border-radius: 8px;"/>
 
-<div align="left">
-  <img src="./images/things-im-good-at.svg" width="430px"/>
-
+<div>
   <!-- ICONS -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/photoshop.html" ><img src="./images/Ps-white-outline-icon.svg" width="50px"/></a> 
@@ -39,6 +44,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./images/css3.svg" width="64px"/></a>
 </div>
 
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 

@@ -5,11 +5,16 @@
     height="30px" />
 </h1> -->
 
-<img src="./images/hero-final.gif"/>
+
+<div float="left">
+  <img width="500px" src="./images/hero-final.gif"/>
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&background=0D1116&vCenter=true&width=350&height=30&lines=My+name+is+Abby;I'm+a+Full+Stack+Developer;(in+training...shhhhh))](https://git.io/typing-svg)
+<div float="right">
+  &nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Menlo&size=18&color=FFFFFF&background=0D1116&vCenter=true&width=475&height=32&lines=Hi+I'm+Abby+and+I'm+a+Full+Stack+Developer;(in+training...shhhhh)" />
+</div>
 
 <br/>
 

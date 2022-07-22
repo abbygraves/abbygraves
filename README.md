@@ -2,7 +2,7 @@
 <img align="left" 
   src="./images/hero-final.gif"
   width="460px"
-  style="margin-right: 20px; margin-bottom: 10px"
+  style="margin-bottom: 10px"
 />
 
 <br/>
@@ -16,8 +16,16 @@
 </p>
 
 <br/>
+<br/>
 
-<img align="right" src="./images/pointer-pixel.svg" width="120px" style="margin-right: 30px; margin-top: 20px"/>
+
+<!-- GITHUB STATS╱TOP LANGS  -->
+<img align="right"
+  src="https://github-readme-stats.vercel.app/api?username=abbygraves&theme=graywhite&show_icons=true&custom_title=My%20GitHub%20Stats&hide_title=false&hide=contribs&title_color=000&icon_color=000&border_color=000"
+  alt="My GitHub Statistics"
+  width="400px" 
+  style="border: 3px solid #000; border-radius: 8px; margin-top: 40px"
+/>
 
 <!-- "THINGS I'M GOOD AT" SVG -->
 <img 
@@ -39,27 +47,24 @@
 
 <br/>
 
-<!-- GITHUB STATS╱TOP LANGS  -->
-<img align="right"
-  src="https://github-readme-stats.vercel.app/api?username=abbygraves&theme=graywhite&show_icons=true&custom_title=My%20GitHub%20Stats&hide_title=false&hide=contribs&title_color=000&icon_color=000&border_color=000"
-  alt="My GitHub Statistics"
-  width="400px" 
-  style="border: 3px solid #000; border-radius: 8px"
-/>
+
+
+<!-- <img align="left" src="./images/pointer-pixel.svg" width="120px" style="margin-right: 30px; margin-top: 20px"/> -->
 
 <br/>
 
 <!-- CONNECT WITH ME -->
-<p align="left" style="color: white; font-size: 16px; font-family: menlo">
+<p align="center" style="color: white; font-size: 16px; font-family: menlo">
   &nbsp;Connect with Me
 </p>
 
-<a href="https://github.com/abbygraves" ><img align="center" src="./images/octocat.svg" width="45px"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:abbygraves14@gmail.com" ><img align="center" src="./images/envelope.svg" width="40px"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:abbygraves14@gmail.com" ><img align="center" src="./images/spotify-icon.svg" width="40px"/></a>
-
+<div align="center">
+  <a href="https://github.com/abbygraves" ><img align="center" src="./images/octocat.svg" width="45px"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:abbygraves14@gmail.com" ><img align="center" src="./images/envelope.svg" width="40px"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:abbygraves14@gmail.com" ><img align="center" src="./images/spotify-icon.svg" width="40px"/></a>
+</div>
 
 
 

@@ -5,9 +5,6 @@
   style="margin-bottom: 10px"
 />
 
-<br/>
-<br/>
-
 
 <!-- BIO -->
 <p align="center" style="color: white; font-size: 13px; font-family: menlo; line-height: 1.5">
@@ -18,29 +15,29 @@
 </p>
 
 <div align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=100&lines=Hello+World!;I+had+to+say+it...;You+know+I+had+to+do+it)">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=100&lines=Hello+World!;I+had+to+say+it...;You+know+I+had+to+do+it">
 </div>
-
 <img align="right"
   src="https://github-readme-stats.vercel.app/api?username=abbygraves&theme=graywhite&show_icons=true&custom_title=My%20GitHub%20Stats&hide_title=false&hide=contribs&title_color=000&icon_color=000&border_color=000"
   alt="My GitHub Statistics"
   width="390px" 
   style="border: 3px solid #000; border-radius: 8px;"/>
-<img 
-  src="./images/things-im-good-at.svg"
-  width="420px"/>
 
-<!-- ICONS -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.adobe.com/products/photoshop.html" ><img src="./images/Ps-white-outline-icon.svg" width="50px"/></a> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.adobe.com/products/illustrator.html"><img src="./images/Ai-icon.svg" width="50px"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.apple.com/final-cut-pro/"><img src="./images/final-cut-pro-x.svg" width="55px"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./images/html-5.svg" width="54px"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./images/css3.svg" width="64px"/></a>
+<div align="left">
+  <img src="./images/things-im-good-at.svg" width="450px"/>
+
+  <!-- ICONS -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html" ><img src="./images/Ps-white-outline-icon.svg" width="50px"/></a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="./images/Ai-icon.svg" width="50px"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.apple.com/final-cut-pro/"><img src="./images/final-cut-pro-x.svg" width="55px"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./images/html-5.svg" width="54px"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./images/css3.svg" width="64px"/></a>
+</div>
 
 <br/>
 <br/>

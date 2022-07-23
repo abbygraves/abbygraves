@@ -2,9 +2,10 @@
   <!-- HERO "HELLO THERE"-->
   <img
     src="./images/profile-readme-header-final.gif"
-    width="1000px"
+    width="800px"
   />
 
+  <br/>
   <br/>
 
   <!-- BIO -->

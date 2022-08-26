@@ -47,13 +47,13 @@
     src="./images/peeker-point.gif"
     width="150px"
   />
-  <p style="color: white; font-size: 16px; font-family: menlo">
+  <p style="color: white; font-size: 18px; font-family: menlo">
     Connect with Me
   </p>
+  <a href="https://abbygraves.xyz"><img align="center" src="./images/icons/webpage-icon-edit-5.png" width="56px"/></a>
   <a href="https://github.com/abbygraves"><img align="center" src="./images/icons/octocat.svg" width="45px"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:abbygraves14@gmail.com"><img align="center" src="./images/icons/envelope.svg" width="40px"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/ani2crcqzqzvk0ziwp9unkzq7?si=2cf59b52331b46a1"><img align="center" src="./images/icons/spotify-icon.svg" width="40px"/></a>
-  <a href="https://abbygraves.xyz"><img align="center" src="./images/icons/webpage-icon.png" width="40px" style="margin-left: 10px"/></a>
 </div>

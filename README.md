@@ -21,15 +21,15 @@
 
   <!-- ICONS -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/products/photoshop.html" ><img src="./images/icons/Ps-white-outline-icon.svg" width="50px"/></a> 
+  <a href="https://www.adobe.com/products/photoshop.html"><img align="center" src="./images/icons/Ps-white-outline-icon.svg" width="50px"/></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/products/illustrator.html"><img src="./images/icons/Ai-icon.svg" width="50px"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img align="center" src="./images/icons/Ai-icon.svg" width="50px"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.apple.com/final-cut-pro/"><img src="./images/icons/final-cut-pro-x.svg" width="55px"/></a>
+  <a href="https://www.apple.com/final-cut-pro/"><img align="center" src="./images/icons/final-cut-pro-x.svg" width="55px"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./images/icons/html-5.svg" width="58px"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" src="./images/icons/html-5.svg" width="58px"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./images/icons/css3.svg" width="68px"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" src="./images/icons/css3.svg" width="72px"/></a>
 
   <br/>
   <br/>
@@ -42,18 +42,9 @@
     style="border: 3px solid #000; border-radius: 8px;"
   />
 
+<br/>
+<br/>
+
 <!-- CONNECT WITH ME -->
-  <img
-    src="./images/peeker-point.gif"
-    width="150px"
-  />
- 
-  ### Connect with Me
-  
-  <a href="https://abbygraves.xyz"><img align="center" src="./images/icons/webpage-icon.png" width="52px"/></a>
-  <a href="https://github.com/abbygraves"><img align="center" src="./images/icons/octocat.svg" width="45px"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:abbygraves14@gmail.com"><img align="center" src="./images/icons/envelope.svg" width="40px"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/ani2crcqzqzvk0ziwp9unkzq7?si=2cf59b52331b46a1"><img align="center" src="./images/icons/spotify-icon.svg" width="40px"/></a>
+  ## Connect with Me &nbsp;&nbsp; <img src="./images/arrow.gif" align="center" width="90px"/> &nbsp;&nbsp;&nbsp; <a href="https://abbygraves.xyz"><img align="center" src="./images/icons/webpage-icon.png" width="46px"/></a> &nbsp;&nbsp; <a href="https://github.com/abbygraves"><img align="center" src="./images/icons/octocat.svg" width="51px"/></a>&nbsp;&nbsp;&nbsp; <a href="mailto:abbygraves14@gmail.com"><img align="center" src="./images/icons/envelope.svg" width="46px"/></a> &nbsp;&nbsp;&nbsp; <a href="https://open.spotify.com/user/ani2crcqzqzvk0ziwp9unkzq7?si=2cf59b52331b46a1"><img align="center" src="./images/icons/spotify-icon.svg" width="46px"/></a>
 </div>

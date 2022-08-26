@@ -47,10 +47,10 @@
     src="./images/peeker-point.gif"
     width="150px"
   />
-  <p style="color: white; font-size: 18px; font-family: menlo">
-    Connect with Me
-  </p>
-  <a href="https://abbygraves.xyz"><img align="center" src="./images/icons/webpage-icon-edit-5.png" width="56px"/></a>
+ 
+  ### Connect with Me
+  
+  <a href="https://abbygraves.xyz"><img align="center" src="./images/icons/webpage-icon-edit-5.png" width="54px"/></a>
   <a href="https://github.com/abbygraves"><img align="center" src="./images/icons/octocat.svg" width="45px"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:abbygraves14@gmail.com"><img align="center" src="./images/icons/envelope.svg" width="40px"/></a>

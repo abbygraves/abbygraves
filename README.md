@@ -55,4 +55,5 @@
   <a href="mailto:abbygraves14@gmail.com"><img align="center" src="./images/icons/envelope.svg" width="40px"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/ani2crcqzqzvk0ziwp9unkzq7?si=2cf59b52331b46a1"><img align="center" src="./images/icons/spotify-icon.svg" width="40px"/></a>
+  <a href="https://abbygraves.xyz"><img align="center" src="./images/icons/webpage-icon.png" width="40px" style="margin-left: 10px"/></a>
 </div>

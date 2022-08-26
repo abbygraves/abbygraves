@@ -46,5 +46,5 @@
 
 
 <!-- CONNECT WITH ME -->
-  ## Connect with Me &nbsp;&nbsp; <img src="./images/arrow.gif" align="center" width="90px"/> &nbsp;&nbsp;&nbsp; <a href="https://abbygraves.xyz"><img align="center" src="./images/icons/webpage-icon.png" width="46px"/></a> &nbsp;&nbsp; <a href="https://github.com/abbygraves"><img align="center" src="./images/icons/octocat.svg" width="51px"/></a>&nbsp;&nbsp;&nbsp; <a href="mailto:abbygraves14@gmail.com"><img align="center" src="./images/icons/envelope.svg" width="46px"/></a> &nbsp;&nbsp;&nbsp; <a href="https://open.spotify.com/user/ani2crcqzqzvk0ziwp9unkzq7?si=2cf59b52331b46a1"><img align="center" src="./images/icons/spotify-icon.svg" width="46px"/></a>
+  ### Connect with Me &nbsp;&nbsp; <img src="./images/arrow.gif" align="center" width="90px"/> &nbsp;&nbsp;&nbsp; <a href="https://abbygraves.xyz"><img align="center" src="./images/icons/webpage-icon.png" width="46px"/></a> &nbsp;&nbsp; <a href="https://github.com/abbygraves"><img align="center" src="./images/icons/octocat.svg" width="51px"/></a>&nbsp;&nbsp;&nbsp; <a href="mailto:abbygraves14@gmail.com"><img align="center" src="./images/icons/envelope.svg" width="46px"/></a> &nbsp;&nbsp;&nbsp; <a href="https://open.spotify.com/user/ani2crcqzqzvk0ziwp9unkzq7?si=2cf59b52331b46a1"><img align="center" src="./images/icons/spotify-icon.svg" width="46px"/></a>
 </div>

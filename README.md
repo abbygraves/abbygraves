@@ -8,14 +8,6 @@
   <br/>
   <br/>
 
-  <!-- BIO -->
-  <img
-    src="./images/profile-readme-bio.svg"
-    width="700px"
-  />
-
-  <br/>
-
   <!-- THINGS I'M GOOD AT -->
   <img src="./images/things-im-good-at.svg" width="600px"/>
 
